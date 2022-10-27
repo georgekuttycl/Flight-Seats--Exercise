@@ -1,2 +1,2 @@
 # Flight-Seats--Exercise
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/georgekuttycl/Flight-Seats--Exercise/blob/master/assets/images/img.PNG)
