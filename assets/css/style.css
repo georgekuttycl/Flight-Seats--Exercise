@@ -1,0 +1,69 @@
+
+    body{
+    margin: 0;
+    padding: 0;
+    }
+.body{
+    background-color: limegreen;
+    width: 100vw;
+    height: 80vh;
+    display: flex;
+    align-items: flex-end;
+}
+.footer{
+    background-color: lightblue;
+    width: 100vw;
+    height: 20vh;
+}
+.section-1{
+    background-color: white;
+    height:40vh;
+    width: 20vw;
+    margin-left: 3em;
+    position: relative;
+}
+.section-2{
+    background-color: white;
+    height: 70vh;
+    width: 20vw;
+    margin-left: 3em;
+    position: relative;
+
+}
+.section-3{
+    background-color: white;
+    height:65vh;
+    width: 20vw;
+    margin-left: 3em;
+    position: relative;
+}
+.section-4{
+    background-color: white;
+    height:40vh;
+    width: 20vw;
+    margin-left: 3em;
+    position: relative;
+}
+.seat1{
+    display: flex;
+}
+.seat3{
+    display: flex;
+}
+.s1{
+    height: 7vh;
+    width: 4.5vw;
+    background-color: limegreen;
+    margin-left: 19px;
+    margin-top: 1em;
+    position: relative;
+    border-radius: 15px;
+}
+.sseat2{
+    height: 10vh;
+    width: 17.5vw;
+    background-color: limegreen;
+    margin-left: 1em;
+    margin-top: 1em;
+    position: relative;
+}
